@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Apr 17 19:49:47 2024
+# Process ID: 25680
+# Current directory: D:/OneDrive/Capstone_FPGA_project/Floating_point_mult/Floating_point_mult.runs/floating_point_mult_synth_1
+# Command line: vivado.exe -log floating_point_mult.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source floating_point_mult.tcl
+# Log file: D:/OneDrive/Capstone_FPGA_project/Floating_point_mult/Floating_point_mult.runs/floating_point_mult_synth_1/floating_point_mult.vds
+# Journal file: D:/OneDrive/Capstone_FPGA_project/Floating_point_mult/Floating_point_mult.runs/floating_point_mult_synth_1\vivado.jou
+# Running On: DESKTOP-KK7M7G8, OS: Windows, CPU Frequency: 3893 MHz, CPU Physical cores: 12, Host memory: 33599 MB
+#-----------------------------------------------------------
+source floating_point_mult.tcl -notrace

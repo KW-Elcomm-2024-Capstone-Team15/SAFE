@@ -1,0 +1,8 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.gen/sources_1/ip/floating_point_add/sim/floating_point_add.v,1713352931,verilog,,D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.srcs/sources_1/new/FP_Add.v,,floating_point_add,,,,,,,,
+D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.srcs/sim_1/new/FP_Add_tb.v,1713234956,verilog,,,,FP_Add_tb,,,,,,,,
+D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.srcs/sources_1/new/FP_Add.v,1713232351,verilog,,D:/OneDrive/Capstone_FPGA_project/Floating_point_add/Floating_point_add.srcs/sim_1/new/FP_Add_tb.v,,FP_Add,,,,,,,,

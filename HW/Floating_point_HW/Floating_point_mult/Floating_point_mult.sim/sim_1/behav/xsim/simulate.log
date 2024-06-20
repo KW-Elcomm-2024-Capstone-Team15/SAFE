@@ -1,0 +1,37 @@
+Time resolution is 1 ps
+Time =                15000, in1 = bdfa2384, in2 = bdefa7df,result = 00000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                25000, in1 = be0fae05, in2 = be4144aa,result = 40000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                35000, in1 = be2cddc8, in2 = be2528cb,result = 40000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                45000, in1 = be30c87a, in2 = be307cf8,result = 40000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                55000, in1 = be11da6c, in2 = be255b7c,result = 40000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                65000, in1 = be35fa10, in2 = be298aa5,result = 00000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                75000, in1 = be1cd204, in2 = be305323,result = 00000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                85000, in1 = be299de9, in2 = be13dd96,result = 00000000,valid = 0,a_tready = 1,b_tready = 1
+Time =                95000, in1 = be053589, in2 = be05ac9d,result = 00000000,valid = 0,a_tready = 1,b_tready = 1
+Time =               105000, in1 = be055564, in2 = bdfb6ffe,result = 3c8681ae,valid = 1,a_tready = 1,b_tready = 1
+Time =               115000, in1 = bdd657a9, in2 = bddc1b35,result = 3d028191,valid = 1,a_tready = 1,b_tready = 1
+Time =               125000, in1 = bdfe4fbe, in2 = bde11f92,result = 3ce41ac4,valid = 1,a_tready = 1,b_tready = 1
+Time =               135000, in1 = bd9a044b, in2 = bd7dcc20,result = 3cc91abb,valid = 1,a_tready = 1,b_tready = 1
+Time =               145000, in1 = bd8a950f, in2 = bd8aba6a,result = 3ceb1669,valid = 1,a_tready = 1,b_tready = 1
+Time =               155000, in1 = bd6e1e51, in2 = bd1a9a05,result = 3ccfb726,valid = 1,a_tready = 1,b_tready = 1
+Time =               165000, in1 = bccf4da8, in2 = bcc3abb1,result = 3ce9a74b,valid = 1,a_tready = 1,b_tready = 1
+Time =               175000, in1 = bca37bdc, in2 = bbe1f1e8,result = 3c99e216,valid = 1,a_tready = 1,b_tready = 1
+Time =               185000, in1 = 3bfc7c94, in2 = 3ce0792d,result = 3c8b3e88,valid = 1,a_tready = 1,b_tready = 1
+Time =               195000, in1 = 3d1b015d, in2 = 3d1793f5,result = 3c5285b7,valid = 1,a_tready = 1,b_tready = 1
+Time =               205000, in1 = 3d19d98d, in2 = 3d1a0216,result = 3c5aa78e,valid = 1,a_tready = 1,b_tready = 1
+Time =               215000, in1 = 3cef7d04, in2 = 3ce06123,result = 3c0770c4,valid = 1,a_tready = 1,b_tready = 1
+Time =               225000, in1 = 3ceab236, in2 = 3cabb35e,result = 3b8963d0,valid = 1,a_tready = 1,b_tready = 1
+Time =               235000, in1 = 3c70d6b4, in2 = 3c6d7460,result = 3b8109bc,valid = 1,a_tready = 1,b_tready = 1
+Time =               245000, in1 = 3bc48e94, in2 = bbf7629f,result = 3a7a62e0,valid = 1,a_tready = 1,b_tready = 1
+Time =               255000, in1 = bc46635c, in2 = bc2c0482,result = 39f9e9fb,valid = 1,a_tready = 1,b_tready = 1
+Time =               265000, in1 = bc6680ee, in2 = bcecefc3,result = b85ed814,valid = 1,a_tready = 1,b_tready = 1
+Time =               275000, in1 = bd429359, in2 = bd75e256,result = 3a87ea90,valid = 1,a_tready = 1,b_tready = 1
+Time =               285000, in1 = bd90a0bc, in2 = bdad731a,result = 3ab6307b,valid = 1,a_tready = 1,b_tready = 1
+Time =               295000, in1 = bdbeb0b8, in2 = bdc5a168,result = 3a901328,valid = 1,a_tready = 1,b_tready = 1
+Time =               305000, in1 = bdd3dce5, in2 = bde73a6b,result = 3a4db4fd,valid = 1,a_tready = 1,b_tready = 1
+Time =               315000, in1 = be00c93f, in2 = be0f5739,result = 39a18829,valid = 1,a_tready = 1,b_tready = 1
+Time =               325000, in1 = be0bd269, in2 = be0040c1,result = 38b65159,valid = 1,a_tready = 1,b_tready = 1
+Time =               335000, in1 = be123882, in2 = be345bb1,result = 38bfb64b,valid = 1,a_tready = 1,b_tready = 1
+Time =               345000, in1 = be38248e, in2 = be237d75,result = 391ae2af,valid = 1,a_tready = 1,b_tready = 1
+Time =               355000, in1 = be1b18c4, in2 = be238922,result = 3ab41612,valid = 1,a_tready = 1,b_tready = 1
+Time =               365000, in1 = be285656, in2 = be20f2b4,result = 3b8ae9b2,vali
